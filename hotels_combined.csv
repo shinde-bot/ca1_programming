@@ -1,0 +1,71 @@
+site,hotel,room_name,price_raw,checkin,checkout,scraped_at
+https://hotel1.tiiny.site/,Clayton Hotel Burlington Road,Standard King Room • 1 king bed,€ 143,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Chancery Hotel,Standard King Room • 1 queen bed,€ 234,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Beckett Locke,One-Bedroom Apartment • 1 bedroom • 1 living room • 1 queen bed,€ 190,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Grafton Hotel,Standard Double Room • 1 full bed,€ 309,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Harcourt Hotel,Double Room (Maximum Occupancy: 2 People) • 1 full bed,€ 169,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Mespil Hotel,Superior Twin Room • 2 twin beds,€ 199,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Trinity Townhouse Hotel,Classic Double Room • 1 full bed,€ 339,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Dean Dublin,The Large • 1 king bed,€ 234,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Clontarf Castle Hotel,Standard Twin Room • 2 twin beds,€ 189,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Trinity City Hotel,Double Room • 1 full bed,€ 214,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Zanzibar Locke,Locke Studio - Twin • Entire studio • 2 twin beds,€ 209,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Butlers Townhouse,Standard Twin Room • 2 twin beds,€ 151,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Pembroke Townhouse,Small Double Room • 1 full bed,€ 167,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Davenport,King Room • 1 king bed,€ 261,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Aloft Dublin City,Aloft King Room • 1 king bed,€ 178,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Staycity Aparthotels Dublin Tivoli,Standard Studio • Entire studio • 2 twin beds,€ 169,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Brooks Hotel,City Queen • 1 queen bed,€ 240,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,citizenM Dublin St Patrick's,King Room • 1 king bed,€ 203,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Maples House Hotel,Twin Room • 2 twin beds,€ 143,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Lansdowne Hotel,Twin Room • 2 twin beds,€ 149,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Address Connolly,"Classic Triple Room • 2 beds (1 twin, 1 full)",€ 229,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Moxy Dublin City,Queen Room • 1 queen bed,€ 195,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Merry Cobbler,Double Room • 1 full bed,€ 160,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,"The Morrison Dublin, Curio Collection by Hilton",King Guest Room • 1 king bed,€ 252,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Hilton Garden Inn Dublin City Centre,Queen Room • 1 queen bed,€ 203,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Bonnington Hotel & Leisure Centre,Classic Double or Twin Room • 1 double or 2 twins,€ 161,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Phoenix Park Hotel,Twin Room • 2 twin beds,€ 149,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Croke Park Hotel,Double Classic Queen Bed • 1 queen bed,€ 195,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Clayton Hotel Cardiff Lane,Executive King Room • 1 king bed,€ 243,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Waterloo Town House & Suites,Double Room • 1 queen bed,€ 174,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Harding Hotel,Double or Twin Room • Multiple bed types,€ 189,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Stauntons on the Green Hotel,Small Double Room • 1 full bed,€ 263,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Blooms Hotel,Twin Room • 2 twin beds,€ 199,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,The Alex,King Room • 1 king bed,€ 279,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://hotel1.tiiny.site/,Arlington Hotel O'Connell Bridge,Standard Twin Room • 2 twin beds,€ 168,2025-12-20,2025-12-30,2025-12-08T10:59:52.385249
+https://booking-hotels2.tiiny.site/,Clayton Hotel Burlington Road,Standard King Room â¢ 1 king bed,â¬ 150,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Chancery Hotel,Standard King Room â¢ 1 queen bed,â¬ 229,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Beckett Locke,One-Bedroom Apartment â¢ 1 bedroom â¢ 1 living room â¢ 1 queen bed,â¬ 200,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Grafton Hotel,Standard Double Room â¢ 1 full bed,â¬ 303,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Harcourt Hotel,Double Room (Maximum Occupancy: 2 People) â¢ 1 full bed,â¬ 177,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Mespil Hotel,Superior Twin Room â¢ 2 twin beds,â¬ 195,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Trinity Townhouse Hotel,Classic Double Room â¢ 1 full bed,â¬ 356,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Dean Dublin,The Large â¢ 1 king bed,â¬ 229,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Clontarf Castle Hotel,Standard Twin Room â¢ 2 twin beds,â¬ 185,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Trinity City Hotel,Double Room â¢ 1 full bed,â¬ 225,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Zanzibar Locke,Locke Studio - Twin â¢ Entire studio â¢ 2 twin beds,â¬ 205,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Butlers Townhouse,Standard Twin Room â¢ 2 twin beds,â¬ 159,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Pembroke Townhouse,Small Double Room â¢ 1 full bed,â¬ 164,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Davenport,King Room â¢ 1 king bed,â¬ 274,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Aloft Dublin City,Aloft King Room â¢ 1 king bed,â¬ 187,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Staycity Aparthotels Dublin Tivoli,Standard Studio â¢ Entire studio â¢ 2 twin beds,â¬ 166,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Brooks Hotel,City Queen â¢ 1 queen bed,â¬ 235,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,citizenM Dublin St Patrick's,King Room â¢ 1 king bed,â¬ 213,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Maples House Hotel,Twin Room â¢ 2 twin beds,â¬ 140,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Lansdowne Hotel,Twin Room â¢ 2 twin beds,â¬ 156,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Address Connolly,"Classic Triple Room â¢ 2 beds (1 twin, 1 full)",â¬ 224,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Moxy Dublin City,Queen Room â¢ 1 queen bed,â¬ 205,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Merry Cobbler,Double Room â¢ 1 full bed,â¬ 168,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,"The Morrison Dublin, Curio Collection by Hilton",King Guest Room â¢ 1 king bed,â¬ 247,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Hilton Garden Inn Dublin City Centre,Queen Room â¢ 1 queen bed,â¬ 199,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Bonnington Hotel & Leisure Centre,Classic Double or Twin Room â¢ 1 double or 2 twins,â¬ 169,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Phoenix Park Hotel,Twin Room â¢ 2 twin beds,â¬ 146,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Croke Park Hotel,Double Classic Queen Bed â¢ 1 queen bed,â¬ 191,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Clayton Hotel Cardiff Lane,Executive King Room â¢ 1 king bed,â¬ 255,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Waterloo Town House & Suites,Double Room â¢ 1 queen bed,â¬ 183,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Harding Hotel,Double or Twin Room â¢ Multiple bed types,â¬ 185,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Stauntons on the Green Hotel,Small Double Room â¢ 1 full bed,â¬ 276,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Blooms Hotel,Twin Room â¢ 2 twin beds,â¬ 209,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,The Alex,King Room â¢ 1 king bed,â¬ 273,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
+https://booking-hotels2.tiiny.site/,Arlington Hotel O'Connell Bridge,Standard Twin Room â¢ 2 twin beds,â¬ 176,2025-12-20,2025-12-30,2025-12-08T10:59:54.889949
